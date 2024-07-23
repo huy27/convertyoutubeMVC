@@ -17,7 +17,8 @@ builder.Services.AddCors(options =>
     {
         builder.WithOrigins(
                     "https://localhost:44465",
-                    "https://youtubeconvert123.azurewebsites.net")
+                    "https://localhost:7244",
+                    "https://youtubeconvert.azurewebsites.net")
                .AllowAnyMethod()
                .AllowAnyHeader();
     });

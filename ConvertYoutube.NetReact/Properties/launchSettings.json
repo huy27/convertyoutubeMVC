@@ -11,7 +11,7 @@
     "ConvertYoutube.NetReact": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7027;http://localhost:5251",
+      "applicationUrl": "https://localhost:7244",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "Microsoft.AspNetCore.SpaProxy"
